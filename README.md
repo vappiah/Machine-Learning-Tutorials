@@ -1,4 +1,4 @@
-## Buy Me a Coffee\
+## Buy Me a Coffee
 [Buy Me a Coffee](https://www.buymeacoffee.com/informatician)
 
 ## Machine-Learning-Tutorials
