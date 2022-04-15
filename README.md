@@ -3,7 +3,7 @@
 
 ## Machine-Learning-Projects
 [Prediction Malaria](https://youtu.be/2zZYtboqZdY)\
-[Cancer Prediction(Episode1)[(https://youtu.be/rzpL1ksWqtk)\
+[Cancer Prediction(Episode1)](https://youtu.be/rzpL1ksWqtk)
 
 
 ## Model Evaluation
