@@ -10,4 +10,5 @@
 [Confusion Matrix](https://youtu.be/q4MnddDBLoI) \
 [ROC Curves for binary classification](https://youtu.be/EWGsjuHR9SQ)\
 [Comparing Classifiers using ROC Curves](https://youtu.be/Q1AFQ9GZ_kc)\
-[Evaluate a MultiClass Classifier using ROC Curves](https://youtu.be/wvXDGa2_x2E)
+[Evaluate a MultiClass Classifier using ROC Curves](https://youtu.be/wvXDGa2_x2E) \
+[Compare the performance of classifiers using heatmaps-Episode 1](https://youtu.be/kVrRPIt8qrs)
